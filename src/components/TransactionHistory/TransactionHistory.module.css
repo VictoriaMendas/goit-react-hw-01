@@ -1,0 +1,14 @@
+.table {
+  border: 1px solid black;
+  padding: 5px;
+  margin-top: 100px;
+  margin: 0 auto;
+}
+.table tr td {
+  padding: 5px;
+  border: solid 1px black;
+}
+.table th {
+  background-color: #363333;
+  color: #fff;
+}
